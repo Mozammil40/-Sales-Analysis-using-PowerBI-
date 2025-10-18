@@ -1,1 +1,2 @@
 # -Sales-Analysis-using-PowerBI-
+This project features a Power BI Dashboard for comprehensive Sales Performance Analysis, showcasing skills in data modeling and visualization. The project tracks key metrics like Revenue ($545.23K) and Total Sales Quantity (592), with detailed breakdowns by product (e.g., Mouse, Monitor, Laptop) and region, and utilizes the Key Influencers visual to determine factors driving sales volume increases.
